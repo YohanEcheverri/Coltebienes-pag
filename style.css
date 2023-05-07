@@ -1,0 +1,11 @@
+body {
+    background-image: url(/imagenes/Imagen\ de\ fondo\ oscuro\ Landing-03-03.png);
+    background-repeat:no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.iconos {
+    font-size: 75px;
+}
